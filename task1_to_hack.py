@@ -9,6 +9,8 @@
 
 """ NOTES: After you have recorded everything, try to run it once to see if it is working as intended. If the code fails at some point consider using page.wait_for_load_state('networkidle') or time.sleep()"""
 
+""" Link to the form: https://forms.office.com/e/wkNh9uHP50 """
+
 """ SUBTASK 1 (2 points): all forms should have their dates set to todays date """
 
 """ SUBTASK 2 (2 points): all forms should have your full name """
